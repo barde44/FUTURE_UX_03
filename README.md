@@ -1,55 +1,42 @@
-FUTURE_UX_03 – CRM Dashboard for Digital Agency
-🖥️ Project Overview
+# FUTURE_UX_03 – CRM Dashboard for Digital Agency
+
+---
+
+## 🖥️ Project Overview
 
 This project is part of Task 3 of the UI/UX Design Internship at Future Interns.
 
-The objective of this task was to design a CRM Dashboard for a Digital Agency, focusing on lead management, client tracking, task organization, and performance analytics.
+The goal of this task was to design a web-based CRM Dashboard for a Digital Agency, focusing on structured data management, workflow organization, and performance analytics using modern SaaS UI standards.
 
-The system helps agencies:
+The CRM system allows agencies to:
 
-Manage leads and clients
+- Manage leads efficiently  
+- Track client information and communication history  
+- Organize internal tasks and pipeline stages  
+- Monitor KPIs and business performance  
+- Analyze revenue and conversion metrics  
 
-Track deal progress
+---
 
-Organize internal tasks
+## 🎯 Task Objective
 
-Analyze performance metrics
+Design a complete desktop CRM dashboard experience for a service-based digital agency, following real-world SaaS product structure, scalability principles, and usability best practices.
 
-Monitor revenue and conversion rates
+---
 
-🎯 Task Objective
+## 📦 Key Deliverables
 
-Design a complete web-based CRM dashboard experience following modern SaaS design standards, structured UX thinking, and scalable UI architecture.
+- User Context – CRM Dashboard for Digital Agency  
+- User Persona – CRM Dashboard  
+- User Flow – CRM Dashboard Journey  
+- Low-Fidelity Wireframes (Dashboard, Leads, Clients, Tasks, Analytics, Settings)  
 
-The project includes both UX documentation and structured wireframes to simulate a real-world CRM product.
+All deliverables are organized and documented in this repository.
 
-📦 Key Deliverables
+---
 
-User Context – CRM Dashboard (Digital Agency)
+## 🗂️ Repository Structure
 
-User Persona – CRM Dashboard
-
-User Flow – CRM Dashboard
-
-Low-Fidelity Wireframes (CRM Pages)
-
-Wireframed pages include:
-
-Dashboard
-
-Leads
-
-Clients
-
-Tasks
-
-Analytics
-
-Settings
-
-All deliverables are documented and organized inside this repository.
-
-🗂️ Repository Structure
 FUTURE_UX_03/
 │
 ├── Figma-FigJam
@@ -71,63 +58,59 @@ FUTURE_UX_03/
 ├── vite.config.ts
 └── README.md
 
+Each folder contains the relevant UX documentation and structured wireframe assets created during the design process.
 
-Each folder contains structured UX documentation and visual wireframe assets created during the design process.
+---
 
-🛠️ Tools Used
+## 🛠️ Tools Used
 
-Figma – Wireframing & Interface Structure
+- Figma (Wireframing & Interface Structure)  
+- FigJam (User Persona & User Flow Mapping)  
+- Modern SaaS dashboard layout principles  
+- Desktop-first web application design approach  
 
-FigJam – User Persona & User Flow Mapping
+---
 
-Modern SaaS Dashboard Layout Principles
+## 🎨 Design Focus & UX Decisions
 
-Desktop-first web application design approach
+- Clear left sidebar navigation for scalability  
+- Grid-based dashboard layout system  
+- Structured KPI cards for quick data visibility  
+- Separation between leads and clients management  
+- Kanban-style task organization  
+- Analytics dashboard with charts and performance breakdown  
+- Consistency across all CRM pages  
+- Professional SaaS-inspired minimal interface  
 
-🎨 Design Focus & UX Decisions
+---
 
-Clear left sidebar navigation for scalability
+## 📊 Pages Designed
 
-Consistent grid-based dashboard layout
+- Dashboard – KPI Overview & Quick Insights  
+- Leads – Lead Management Table  
+- Clients – Client Profile & Communication History  
+- Tasks – Task Management / Pipeline View  
+- Analytics – Revenue & Performance Visualization  
+- Settings – System & Account Configuration  
 
-Structured KPI presentation
+---
 
-Clean data visualization placeholders
-
-Separation between leads and clients management
-
-Kanban-style task organization
-
-Analytics dashboard with charts & performance metrics
-
-Usability-first approach for digital agency workflows
-
-📊 Pages Designed
-
-Dashboard – KPI Overview & Quick Stats
-
-Leads – Lead Management Table
-
-Clients – Client Profile & Communication History
-
-Tasks – Task Management / Pipeline View
-
-Analytics – Revenue & Performance Insights
-
-Settings – Account & System Configuration
-
-✅ Task Status
+## ✅ Task Status
 
 Task 3 – Completed
 
-All required UX stages and wireframes have been completed according to the internship guidelines.
+All required UX documentation and wireframe stages have been completed according to the internship guidelines.
 
-👤 Author
+---
 
-Steven Barde
-UI/UX Design Intern – Future Interns
+## 👤 Author
 
-🔗 Internship Program
+Steven Barde  
+UI/UX Design Intern – Future Interns  
 
-Future Interns
+---
+
+## 🔗 Internship Program
+
+Future Interns  
 UI/UX Design Internship Program
